@@ -36,7 +36,7 @@
 ###
 
 <p align="left"> <br> - 🌍I'm tota from Portugal<br>- 🔭 I’m a student in ESJA <br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I play video games and listen to metal<br>- 📁 Most of the things you will find here are for storage purposes. </p>
-
+<p align="right" size="-10"> <br> - 🤓shoutout martfn</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
