@@ -26,10 +26,10 @@
 
 
 ###
+<div align="center">
+<h1  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC19C8&width=435&lines=Hey+guys%2C+welcome+to+my+github!%F0%9F%91%8B" alt="Typing SVG" /> </h1>
+</div>
 
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC19C8&width=435&lines=Hey+guys%2C+welcome+to+my+github!%F0%9F%91%8B" alt="Typing SVG" /></h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
