@@ -31,11 +31,11 @@
 </div>
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left" style="color:purple;">👩‍💻  About Me </h3>
 
 ###
 
-<p align="left">I'm tota from Portugal <br><br>- 🔭 I’m a student in ESJA <br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I play video games and listen to metal<br>- 📁 Most of the things you will find here are for storage purposes. </p>
+<p align="left"> <br> -🌍I'm tota from Portugal<br>- 🔭 I’m a student in ESJA <br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I play video games and listen to metal<br>- 📁 Most of the things you will find here are for storage purposes. </p>
 
 ###
 
