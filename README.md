@@ -1,19 +1,10 @@
-<div align="center">
-  <img height="150" src="metallica-kirk.gif"  />
-</div>
 
 ###
 
 
 <div align="center">
-  <a href="https://discord.gg/JtxaTT6qpN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
-  </a>
   <a href="https://www.youtube.com/@warkuss51/featured" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/_marcosfcostaa_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
   </a>
 </div>
 
@@ -35,7 +26,7 @@
 
 ###
 
-<p align="left"> <br> - 🌍 My name is tota im from Portugal and im 16.<br>- 🔭 I’m a student in ESJA <br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I play video games and listen to metal<br>- 📁 Most of the things you will find here are for storage purposes. </p>
+<p align="left"> <br> - 🌍 My name is tota im from Portugal and im 17.<br>- 🔭 I’m a student in ESJA <br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I play video games<br>- 📁 Most of the things you will find here are for storage purposes. </p>
 
 ###
 
