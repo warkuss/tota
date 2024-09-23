@@ -1,14 +1,3 @@
-
-###
-
-
-<div align="center">
-  <a href="https://www.youtube.com/@warkuss51/featured" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
-
 ###
 
 <div align="center" dir="auto">
